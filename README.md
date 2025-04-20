@@ -51,7 +51,7 @@ Já conheço esses tópicos e aplico no dia a dia, mas estou revisitando com o f
 
 ## 🔗 Links rápidos
 
-- [🔗 Projeto Estudo no Notion]([https://www.notion.so/SOLID-1c4b31615f05805ca292e0a239da3373?pvs=21](https://www.notion.so/Projeto-Estudo-1c3b31615f058093b8b1d7a82ab38d7e?pvs=4))  
+- [🔗 Projeto Estudo no Notion](https://www.notion.so/Projeto-Estudo-1c3b31615f058093b8b1d7a82ab38d7e?pvs=4)
 
 ---
 
