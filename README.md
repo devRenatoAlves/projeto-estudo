@@ -58,3 +58,13 @@ Já conheço esses tópicos e aplico no dia a dia, mas estou revisitando com o f
 ## 🧱 Conclusão
 
 Essa jornada é sobre consistência e profundidade. Quero transformar o conhecimento que já possuo em algo ainda mais sólido, revisando fundamentos com mais intenção — porque ser bom hoje não é o suficiente. A meta é ser excelente.
+
+## 🎯 Por que estou fazendo isso?
+
+Porque quero **levar comigo a base e os fundamentos**.
+Quero aprender cada conceito com profundidade e aplicar com confiança no dia a dia.
+Acredito que isso vai me transformar em um profissional melhor que muitos por aí que sabem apenas o superficial.
+
+Mais importante que tudo: isso vai me fazer **me sentir bem com meu próprio conhecimento**.
+E além disso, **estou compartilhando tudo que aprendo**, registrando de uma forma que **outras pessoas também possam usar como referência para estudar**.
+Esse formato me ajuda a reforçar o aprendizado e, ao mesmo tempo, pode ajudar quem está na mesma caminhada.
