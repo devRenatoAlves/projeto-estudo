@@ -17,8 +17,9 @@ Estudar os fundamentos e conceitos que aparecem com frequência no nosso dia a d
 
 ## 🧠 Conteúdos em andamento
 
-- [Design Patterns](https://www.notion.so/Design-Patterns-1c3b31615f058048be1fc50717a12319?pvs=21)
+- [Design Patterns](./Design-Patterns/Design-Patterns.md)
 - [SOLID](./SOLID/SOLID)
+- [SCRUM](./SCRUM/SCRUM.md)
 
 ---
 
