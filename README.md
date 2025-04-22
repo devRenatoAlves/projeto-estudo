@@ -37,7 +37,8 @@ Já conheço esses tópicos e aplico no dia a dia, mas estou revisitando com o f
 - API Gateway  
 - Deploy em VPS  
 - Arquitetura Hexagonal  
-- Regras de Negócio  
+- Regras de Negócio
+- Docker
 
 ---
 
