@@ -18,7 +18,7 @@ Estudar os fundamentos e conceitos que aparecem com frequência no nosso dia a d
 ## 🧠 Conteúdos em andamento
 
 - [Design Patterns](https://www.notion.so/Design-Patterns-1c3b31615f058048be1fc50717a12319?pvs=21)
-- [SOLID](https://www.notion.so/SOLID-1c4b31615f05805ca292e0a239da3373?pvs=21)
+- [SOLID](./SOLID/SOLID)
 
 ---
 
