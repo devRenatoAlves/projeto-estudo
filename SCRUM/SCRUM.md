@@ -90,3 +90,51 @@ Quem constrói o produto, o testa e garante sua qualidade.
   - O que foi ruim para a Sprint e deve ser melhorado?
   - Quais os planos de ação.
 
+# Artefatos
+
+- Os artefatos do Scrum, como dito no Scrum Guide, representam o trabalho ou o valor para o fornecimento de transparência e oportunidades para a inspeção e adaptação.
+- Os artefatos do Scrum são:
+  - Backlog do produto
+  - Backlog da Sprint
+  - Incremento
+
+## Product Backlog
+
+- O Backlog do Produto é entendido como uma lista ordenada de tudo que deve ser necessário para o produto.
+- É o PO que prioriza, gerencia, refina e garante seu valor e representação na organização.
+- Pode conter:
+  - Histórias
+  - Requisitos não funcionais
+  - Requisitos funcionais
+
+## Sprint Backlog
+
+- O Backlog da Sprint é a lista de requisitos, priorizada pelo PO, a ser entregue em uma Sprint.
+- É construído e formalizado no planejamento da Sprint, quando o time o estima e determina, junto com o PO, o seu tamanho.
+- Sua composição é tida para entregar o incremento e o objetivo da Sprint.
+
+## Incremento
+
+- O incremento nada mais é do que a soma dos itens do backlog do produto construídos na Sprint, dentro da “definição de pronto” (Done) acordada.
+- A “Definição de Pronto" de um incremento inclui tudo aquilo que o define como utilizável, ou seja, “pronto” para ser usado, esteja liberado para produção ou não.
+
+# Gestão de Liberações
+
+## O que é uma Release?
+
+_(Conteúdo a ser adicionado)_
+
+## Release Planning
+
+_(Conteúdo a ser adicionado)_
+
+## Release Burndown
+
+_(Conteúdo a ser adicionado)_
+
+# Ferramentas Scrum
+
+- Dentro do Scrum, existem algumas ferramentas e técnicas que ajudam na gestão das entregas e no controle que os times necessitam. São algumas delas:
+  - Kanban
+  - Sprint Burndown
+  - Definition of Done
