@@ -61,3 +61,9 @@ Quem constrói o produto, o testa e garante sua qualidade.
   - Parte 1 - O que iremos fazer?
   - Parte 2 - Como iremos fazer?
 - Seu time-box é de 8 horas para Sprints de 4 semanas e 4 horas para Sprints de 2 semanas
+
+## Planning Poker
+
+- Através da sequência de Fibonacci, os desenvolvedores — e somente eles — vão estimar cada funcionalidade a ser construída.
+- Exemplo: uma funcionalidade de 1 ponto é extremamente simples, enquanto uma de 13 pontos é bem mais complexa.
+
