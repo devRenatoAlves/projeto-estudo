@@ -76,3 +76,17 @@ Quem constrói o produto, o testa e garante sua qualidade.
   - Quais os impedimentos?
 - Em teoria, somente o time de desenvolvimento deve estar presente.
 
+## Revisão da Sprint
+
+- A **Sprint Review** é a penúltima cerimônia do Scrum, onde o time de desenvolvimento apresenta o produto ao PO e recebe o feedback pelo que foi realizado.
+- É neste momento que os critérios de aceitação atendidos são validados e possíveis correções são sugeridas.
+- O time-box é de 4 horas para Sprints de 4 semanas.
+
+## Retrospectiva da Sprint
+
+- A **Sprint Retrospective** é a última cerimônia do Scrum. É nela que a melhoria contínua do processo pode ser aplicada.
+- Aqui os integrantes do time Scrum devem reconhecer:
+  - O que foi benéfico para a Sprint e deve ser mantido?
+  - O que foi ruim para a Sprint e deve ser melhorado?
+  - Quais os planos de ação.
+
