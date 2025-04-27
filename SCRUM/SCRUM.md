@@ -45,4 +45,12 @@ Responsável por maximizar o valor do produto e gerenciar o backlog.
 ### Time de Desenvolvimento
 Quem constrói o produto, o testa e garante sua qualidade.
 
-l
+# Cerimônias
+
+- As cerimônias do Scrum - ou eventos - compõem o ciclo de desenvolvimento que tem como resultado o incremento do produto.
+- Cada ciclo de desenvolvimento - chamado de Sprint - precisa ter entre 2 a 4 semanas.
+- Cada cerimônia se relaciona com cada etapa PDCA:
+  - Planejamento da Sprint (PLAN)
+  - Execução (DO)
+  - Revisão da Sprint (CHECK)
+  - Retrospectiva (ACT)
