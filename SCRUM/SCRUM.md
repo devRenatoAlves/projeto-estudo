@@ -67,3 +67,12 @@ Quem constrói o produto, o testa e garante sua qualidade.
 - Através da sequência de Fibonacci, os desenvolvedores — e somente eles — vão estimar cada funcionalidade a ser construída.
 - Exemplo: uma funcionalidade de 1 ponto é extremamente simples, enquanto uma de 13 pontos é bem mais complexa.
 
+## Daily Scrum/Meeting
+
+- A Daily Scrum ou Daily Meeting é uma técnica usada para captar a percepção do time, isto é, alinhar todos sobre o status da Sprint.
+- Durante os **15 minutos** de reunião, todos devem responder:
+  - O que foi feito nas últimas 24 horas?
+  - O que será feito nas próximas 24 horas?
+  - Quais os impedimentos?
+- Em teoria, somente o time de desenvolvimento deve estar presente.
+
