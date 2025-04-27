@@ -54,3 +54,10 @@ Quem constrói o produto, o testa e garante sua qualidade.
   - Execução (DO)
   - Revisão da Sprint (CHECK)
   - Retrospectiva (ACT)
+
+## Sprint Planning
+
+- A Sprint Planning é a primeira cerimônia do Scrum. É dividida em duas partes:
+  - Parte 1 - O que iremos fazer?
+  - Parte 2 - Como iremos fazer?
+- Seu time-box é de 8 horas para Sprints de 4 semanas e 4 horas para Sprints de 2 semanas
