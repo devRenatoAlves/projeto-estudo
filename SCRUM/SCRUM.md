@@ -1,5 +1,5 @@
 # Scrum
-
+ 
 ## O que é?
 
 De acordo com o Scrum Guide:  
