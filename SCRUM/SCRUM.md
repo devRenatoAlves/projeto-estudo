@@ -1,7 +1,7 @@
 # Scrum
  
 ## O que é?
-
+  
 De acordo com o Scrum Guide:  
 > "Um framework dentro do qual as pessoas podem resolver problemas adaptativos complexos, enquanto, produtivamente e criativamente entregam produtos com o mais alto valor possível."
 
